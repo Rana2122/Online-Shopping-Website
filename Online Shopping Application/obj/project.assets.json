@@ -13469,23 +13469,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\infot\\.nuget\\packages\\": {},
+    "C:\\Users\\inshagup\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\shailvi gupta\\learning\\Online Shopping Application\\Online Shopping Application\\Online Shopping Application.csproj",
+      "projectUniqueName": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Online Shopping Application.csproj",
       "projectName": "Online Shopping Application",
-      "projectPath": "D:\\shailvi gupta\\learning\\Online Shopping Application\\Online Shopping Application\\Online Shopping Application.csproj",
-      "packagesPath": "C:\\Users\\infot\\.nuget\\packages\\",
-      "outputPath": "D:\\shailvi gupta\\learning\\Online Shopping Application\\Online Shopping Application\\obj\\",
+      "projectPath": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Online Shopping Application.csproj",
+      "packagesPath": "C:\\Users\\inshagup\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\infot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\inshagup\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -13494,14 +13494,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\shailvi gupta\\learning\\Online Shopping Application\\Online Shopping Application.API\\Online Shopping Application.API.csproj": {
-              "projectPath": "D:\\shailvi gupta\\learning\\Online Shopping Application\\Online Shopping Application.API\\Online Shopping Application.API.csproj"
+            "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Online Shopping Application.API.csproj": {
+              "projectPath": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Online Shopping Application.API.csproj"
             }
           }
         }
@@ -13510,6 +13511,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -13576,6 +13582,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -13584,8 +13608,20 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "libraryId": "System.IdentityModel.Tokens.Jwt",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

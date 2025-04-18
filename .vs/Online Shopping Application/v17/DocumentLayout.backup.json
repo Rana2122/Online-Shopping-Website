@@ -1,0 +1,967 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\Shailvi\\online-shopping-application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\models\\loginapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\models\\loginapimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\views\\userlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\views\\userlogin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\services\\jwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\services\\jwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\controllers\\adminlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\controllers\\adminlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\response\\jwtresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\response\\jwtresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\models\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\models\\httpapiwrapperresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\models\\httpapiwrapperresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\helpers\\apiwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\helpers\\apiwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\bootstraper\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\bootstraper\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\cachemanager\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\cachemanager\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\data\\fammscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\data\\fammscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\wwwroot\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\wwwroot\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\views\\adminlogin\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\views\\adminlogin\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application.api\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0353B18-474D-451B-9DF4-5548FBC7584D}|Online Shopping Application.API\\Online Shopping Application.API.csproj|solutionrelative:online shopping application.api\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\views\\adminlogin\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\views\\adminlogin\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\libs\\popper\\popper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\libs\\popper\\popper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\libs\\jquery\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\libs\\jquery\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\libs\\apex-charts\\apexcharts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\libs\\apex-charts\\apexcharts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\libs\\apex-charts\\apex-charts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\libs\\apex-charts\\apex-charts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\js\\menu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\js\\menu.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\js\\helpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\js\\helpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\fonts\\boxicons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\fonts\\boxicons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\fonts\\boxicons\\boxicons.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\fonts\\boxicons\\boxicons.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\css\\theme-default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\css\\theme-default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\css\\core.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\css\\core.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\css\\pages\\page-misc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\css\\pages\\page-misc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\css\\pages\\page-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\css\\pages\\page-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\css\\pages\\page-auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\css\\pages\\page-auth.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\vendor\\css\\pages\\page-account-settings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\vendor\\css\\pages\\page-account-settings.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\js\\dashboards-analytics.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\js\\dashboards-analytics.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\js\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\js\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|c:\\code\\shailvi\\online-shopping-application\\online shopping application\\areas\\assets\\css\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D97D3AD8-029A-491B-B601-E17ED48EE1A3}|Online Shopping Application\\Online Shopping Application.csproj|solutionrelative:online shopping application\\areas\\assets\\css\\demo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Program.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\Program.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Program.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:50:42.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Program.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Program.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Program.cs",
+              "RelativeToolTip": "Online Shopping Application\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:05:54.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Controllers\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Controllers\\UserLoginController.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Controllers\\UserLoginController.cs",
+              "RelativeToolTip": "Online Shopping Application\\Controllers\\UserLoginController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:24.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Online Shopping Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:54:05.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginAPIModel.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Models\\LoginAPIModel.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Models\\LoginAPIModel.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Models\\LoginAPIModel.cs",
+              "RelativeToolTip": "Online Shopping Application\\Models\\LoginAPIModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:32:50.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:54:05.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminLoginController.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Controllers\\AdminLoginController.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Controllers\\AdminLoginController.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Controllers\\AdminLoginController.cs",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Controllers\\AdminLoginController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwE0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JWTServices.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Services\\JWTServices.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\Services\\JWTServices.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Services\\JWTServices.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\Services\\JWTServices.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:34:56.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Views\\UserLogin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Views\\UserLogin\\Login.cshtml",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Views\\UserLogin\\Login.cshtml",
+              "RelativeToolTip": "Online Shopping Application\\Views\\UserLogin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:05:16.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Models\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Models\\TokenResponse.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Models\\TokenResponse.cs",
+              "RelativeToolTip": "Online Shopping Application\\Models\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:32:55.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Models\\UserLogin.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\Models\\UserLogin.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Models\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Models\\JWTSettings.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Models\\JWTSettings.cs",
+              "RelativeToolTip": "Online Shopping Application\\Models\\JWTSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:31:17.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Helpers\\Constants.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Helpers\\Constants.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Helpers\\Constants.cs",
+              "RelativeToolTip": "Online Shopping Application\\Helpers\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:17:04.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Online Shopping Application\\appsettings.json",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\appsettings.json",
+              "RelativeToolTip": "Online Shopping Application\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T04:58:51.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JWTResponse.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Response\\JWTResponse.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Response\\JWTResponse.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Response\\JWTResponse.cs",
+              "RelativeToolTip": "Online Shopping Application\\Response\\JWTResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "APIWrapper.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Helpers\\APIWrapper.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Helpers\\APIWrapper.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Helpers\\APIWrapper.cs",
+              "RelativeToolTip": "Online Shopping Application\\Helpers\\APIWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HttpAPIWrapperResponse.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Models\\HttpAPIWrapperResponse.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Models\\HttpAPIWrapperResponse.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Models\\HttpAPIWrapperResponse.cs",
+              "RelativeToolTip": "Online Shopping Application\\Models\\HttpAPIWrapperResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAqwHUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Bootstraper\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Bootstraper\\ConfigureServices.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Bootstraper\\ConfigureServices.cs",
+              "RelativeToolTip": "Online Shopping Application\\Bootstraper\\ConfigureServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CacheManager.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\CacheManager\\CacheManager.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\CacheManager\\CacheManager.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\CacheManager\\CacheManager.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\CacheManager\\CacheManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FammsContext.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\data\\FammsContext.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\data\\FammsContext.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\data\\FammsContext.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\data\\FammsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:54:05.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:54:05.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Helpers\\Constants.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\Helpers\\Constants.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Helpers\\Constants.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\Helpers\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:54:05.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAqwIQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:54:05.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Mapper\\AutoMapper.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\Mapper\\AutoMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwD0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\wwwroot\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\wwwroot\\js\\bootstrap.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\wwwroot\\js\\bootstrap.js",
+              "RelativeToolTip": "Online Shopping Application\\wwwroot\\js\\bootstrap.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\wwwroot\\js\\custom.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "Online Shopping Application\\wwwroot\\js\\custom.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\AdminLogin\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Views\\AdminLogin\\SignIn.cshtml",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\AdminLogin\\SignIn.cshtml",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Views\\AdminLogin\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:54:05.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Online Shopping Application.API\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application.API\\Repository\\Repository.cs",
+              "RelativeToolTip": "Online Shopping Application.API\\Repository\\Repository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:54:05.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\AdminLogin\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Views\\AdminLogin\\SignUp.cshtml",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\AdminLogin\\SignUp.cshtml",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Views\\AdminLogin\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:54:05.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:54:05.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "theme-default.css",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\theme-default.css",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\css\\theme-default.css",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\theme-default.css",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\css\\theme-default.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T04:54:05.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "core.css",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\core.css",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\css\\core.css",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\core.css",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\css\\core.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T04:54:05.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "boxicons.css",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\fonts\\boxicons.css",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\fonts\\boxicons.css",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\fonts\\boxicons.css",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\fonts\\boxicons.css",
+              "ViewState": "AQIAAEgZAAAAAAAAAAAAwG8ZAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T04:54:05.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\js\\bootstrap.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\js\\bootstrap.js",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\js\\bootstrap.js",
+              "ViewState": "AQIAAAUDAAAAAAAAAAAAwBEDAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "helpers.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\js\\helpers.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\js\\helpers.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\js\\helpers.js",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\js\\helpers.js",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAuwGQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "menu.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\js\\menu.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\js\\menu.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\js\\menu.js",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\js\\menu.js",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAuwGQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "apex-charts.css",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+              "ViewState": "AQIAAMMCAAAAAAAAAAAAwOoCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T04:54:05.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "apexcharts.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAzwHAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\jquery\\jquery.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\jquery\\jquery.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\jquery\\jquery.js",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\jquery\\jquery.js",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAQwG8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "popper.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\popper\\popper.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\popper\\popper.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\popper\\popper.js",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\popper\\popper.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "boxicons.svg",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-28T04:54:05.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "perfect-scrollbar.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "page-misc.css",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-misc.css",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-misc.css",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-misc.css",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-misc.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T04:54:05.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "perfect-scrollbar.css",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAwNMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T04:54:05.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "page-icons.css",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-icons.css",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-icons.css",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-icons.css",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-icons.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T04:54:05.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "page-auth.css",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-auth.css",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-auth.css",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-auth.css",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-auth.css",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T04:54:05.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "page-account-settings.css",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-account-settings.css",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-account-settings.css",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-account-settings.css",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\vendor\\css\\pages\\page-account-settings.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T04:54:05.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\js\\main.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\js\\main.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\js\\main.js",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\js\\main.js",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwGAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "dashboards-analytics.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\js\\dashboards-analytics.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\js\\dashboards-analytics.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\js\\dashboards-analytics.js",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\js\\dashboards-analytics.js",
+              "ViewState": "AQIAAHACAAAAAAAAAAAgwE4CAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "config.js",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\js\\config.js",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\js\\config.js",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\js\\config.js",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\js\\config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T04:54:05.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "demo.css",
+              "DocumentMoniker": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\css\\demo.css",
+              "RelativeDocumentMoniker": "Online Shopping Application\\Areas\\assets\\css\\demo.css",
+              "ToolTip": "C:\\Code\\Shailvi\\online-shopping-application\\Online Shopping Application\\Areas\\assets\\css\\demo.css",
+              "RelativeToolTip": "Online Shopping Application\\Areas\\assets\\css\\demo.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T04:54:05.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
