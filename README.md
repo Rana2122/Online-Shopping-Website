@@ -34,6 +34,6 @@ POST /api/Products/Create – Add product (requires JWT token)
 
 🔹 Front-End:
 
-🏠 Homepage – Browse products and featured
+🏠 Homepage – Browse products and features
 
 👤 Login/Register – Secure user authentication forms
