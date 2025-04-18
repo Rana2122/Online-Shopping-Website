@@ -25,9 +25,12 @@ cd Online-Shopping-Website
 📦 Usage
 🔹 API Endpoints
 POST /api/Authenticate/Login – Authenticate users
+
 GET /api/Categories/GetAllCategories – List categories
+
 POST /api/Products/Create – Add product (requires JWT token)
 
 🔹 Front-End
-🏠 Homepage – Browse products and featured 
+🏠 Homepage – Browse products and featured
+
 👤 Login/Register – Secure user authentication forms
