@@ -23,14 +23,16 @@ git clone https://github.com/Rana2122/Online-Shopping-Website.git
 cd Online-Shopping-Website
 
 📦 Usage
-🔹 API Endpoints
+🔹 API Endpoints:
+
 POST /api/Authenticate/Login – Authenticate users
 
 GET /api/Categories/GetAllCategories – List categories
 
 POST /api/Products/Create – Add product (requires JWT token)
 
-🔹 Front-End
+🔹 Front-End:
+
 🏠 Homepage – Browse products and featured
 
 👤 Login/Register – Secure user authentication forms
